@@ -14,4 +14,7 @@ changes the owner of the file hello to the user betty.
 creates an empty file `hello`
 
 ### 5-execute
-create  script that adds execute permission to the owner of the file hello
+adds execute permission to the owner of the file hello
+
+### 6-multiple_permissions
+adds execute permisison to owner and group owner and read permission to other users to file hello
