@@ -12,3 +12,6 @@ changes the owner of the file hello to the user betty.
 
 ### 4-empty
 creates an empty file `hello`
+
+### 5-execute
+create  script that adds execute permission to the owner of the file hello
