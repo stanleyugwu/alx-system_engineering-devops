@@ -7,5 +7,8 @@ prints the current user
 ### 2-groups
 prints the groups which the current user belongs to
 
-## 3-new_owner
+### 3-new_owner
 changes the owner of the file hello to the user betty.
+
+### 4-empty
+creates an empty file `hello`
