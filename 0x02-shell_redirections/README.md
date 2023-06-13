@@ -24,3 +24,6 @@ creates a file
 
 ### 8-cwd_state
 writes tge output of ls -la to a file
+
+### 9-duplicate_last_line
+ceeate script to duplicate last line of a file
