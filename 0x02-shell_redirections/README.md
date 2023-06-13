@@ -23,7 +23,10 @@ displays the third line of the file iacta.
 creates a file
 
 ### 8-cwd_state
-writes tge output of ls -la to a file
+writes the output of ls -la to a file
 
 ### 9-duplicate_last_line
-ceeate script to duplicate last line of a file
+duplicate last line of a file
+
+### 10-no_more_js
+deletes all `.js` files in directory and it's sub
