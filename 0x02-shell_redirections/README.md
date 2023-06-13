@@ -33,3 +33,6 @@ deletes all `.js` files in directory and it's sub
 
 ### 11-directories
 counts the number of directories and sub-directories in the current directory.
+
+### 12-newest_files
+shows 10 newest files in the directory sorted by time
