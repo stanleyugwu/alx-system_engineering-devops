@@ -30,3 +30,6 @@ duplicate last line of a file
 
 ### 10-no_more_js
 deletes all `.js` files in directory and it's sub
+
+### 11-directories
+counts the number of directories and sub-directories in the current directory.
