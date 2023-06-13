@@ -21,3 +21,6 @@ displays the third line of the file iacta.
 
 ### 7-file
 creates a file
+
+### 8-cwd_state
+writes tge output of ls -la to a file
