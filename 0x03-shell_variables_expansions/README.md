@@ -25,3 +25,6 @@ create global variable
 ### 8-true_knowledge
 adds 128 to env var value
 
+### 9-divide_and_rule
+adds and divides
+
