@@ -16,3 +16,6 @@ shows global variables
 ### 5-local_variables
 shows all local vars, functions and env vars
 
+### 6-create_local_variable
+create local variable BEST
+
