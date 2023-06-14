@@ -10,3 +10,6 @@ add new path
 ### 3-paths
 counts dirs in PATH
 
+### 4-global_variables
+shows global variables
+
