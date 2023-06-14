@@ -57,3 +57,6 @@ Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 ### 19-AZ
 Replace Az chars from input to Ze.
+
+### 20-hiago
+Remove all letters C and c
