@@ -13,3 +13,6 @@ counts dirs in PATH
 ### 4-global_variables
 shows global variables
 
+### 5-local_variables
+shows all local vars, functions and env vars
+
