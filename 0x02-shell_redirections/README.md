@@ -60,3 +60,6 @@ Replace Az chars from input to Ze.
 
 ### 20-hiago
 Remove all letters C and c
+
+## 21-reverse
+Reverses its input
