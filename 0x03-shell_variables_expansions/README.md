@@ -7,3 +7,6 @@ prints hello user
 ### 2-path
 add new path
 
+### 3-paths
+counts dirs in PATH
+
