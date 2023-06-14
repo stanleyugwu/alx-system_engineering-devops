@@ -28,3 +28,6 @@ adds 128 to env var value
 ### 9-divide_and_rule
 adds and divides
 
+### 10-love_exponent_breath
+power BREATH to LOVE
+
