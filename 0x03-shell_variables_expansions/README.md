@@ -22,3 +22,6 @@ create local variable BEST
 ### 7-create_global_variable
 create global variable
 
+### 8-true_knowledge
+adds 128 to env var value
+
