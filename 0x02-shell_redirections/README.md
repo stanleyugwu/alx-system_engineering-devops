@@ -63,3 +63,7 @@ Remove all letters C and c
 
 ## 21-reverse
 Reverses its input
+
+### 22-users_and_homes
+displays users and their home dirs
+
